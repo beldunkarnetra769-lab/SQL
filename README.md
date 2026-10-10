@@ -1,4 +1,4 @@
-# SQL Practice Repository
+# SQL  Repository
 
 ## About This Repository
 
