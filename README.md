@@ -49,7 +49,7 @@ Practice combining data from multiple tables using SQL joins.
 ## Tools and Technologies
 
 * **Language:** SQL
-* **Database Tool:** MySQL Workbench, if used for these scripts
+* **Database Tool:** MySQL Workbench
 * **Database Type:** Relational Database
 
 ## How to Use
